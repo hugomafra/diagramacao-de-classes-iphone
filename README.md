@@ -8,8 +8,10 @@ Este repositório não apenas fornece o código-fonte em Java para as classes e 
 
 ## 📊 Diagrama UML
 <p align="center">
-  <img src="docs/iPhone-modelagem.png" alt="Diagrama de Classes">
+  <img src="C:\Users\hugog.000\Downloads" alt="Diagrama de Classes">
 </p>
+![iPhone-modelagem](https://github.com/hugomafra/diagramacao-de-classes-iphone/assets/114294017/2cb9856e-2851-4fb3-87d8-d1b68d4823ac)
+
 
 
 Nesta seção, apresentamos uma explicação detalhada de cada classe representada no diagrama de classe do projeto. Cada classe desempenha um papel específico e contribui para a funcionalidade global do sistema.
