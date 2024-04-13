@@ -32,8 +32,6 @@ A interface `NavegadorInternet` define métodos para a navegação na web, como 
 
 Cada classe ou interface desempenha um papel específico no sistema e contribui para a versatilidade do dispositivo iPhone, tornando-o capaz de realizar uma variedade de funções.
 
-Se você deseja explorar mais detalhes do diagrama de classes [clique aqui](docs/iPhone-modelagem.pdf) para ser redirecionado ao arquivo PDF correspondente.
-
 ## 💡 Como usar
 Clone o repositório em sua máquina local usando o comando git clone.
 Abra o projeto em sua IDE Java preferida.
